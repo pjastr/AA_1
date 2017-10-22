@@ -1,0 +1,6 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\bin\Debug\AA_1.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\bin\Debug\AA_1.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\bin\Debug\AA_1.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\obj\Debug\AA_1.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\obj\Debug\AA_1.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\AA_1\AA_1\obj\Debug\AA_1.pdb
